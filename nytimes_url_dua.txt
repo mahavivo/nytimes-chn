@@ -23633,3 +23633,5 @@ https://cn.nytimes.com/world/20120615/c15nato/dual/
 https://cn.nytimes.com/world/20120615/c15suukyi/dual/
 https://cn.nytimes.com/world/20120615/c15syria/dual/
 https://cn.nytimes.com/world/20120615/c15egypt/dual/
+https://cn.nytimes.com/lens/20131122/c22lens-nepal/dual/
+https://cn.nytimes.com/usa/20130513/c13yosemite/dual/
